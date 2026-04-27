@@ -14,11 +14,11 @@
 <h1 align="center">Company Backgorund</h1>
 
 
-<p>ApexPlay is an e-commerce company specializing in popular electronic products across the United States. Since its launch in 2018, the company has experienced significant growth, expanding its reach to a global customer base across four regions. Along the way, ApexPlay has faced increasing competition from industry peers, as well as both challenges and opportunities driven by the COVID-19 pandemic.
+<p>ApexPlay Gaming and Electronics Retail is an e-commerce company specializing in popular electronic products across the United States. Since its launch in 2018, the company has experienced significant growth, expanding its reach to a global customer base across four regions. Along the way, ApexPlay has faced increasing competition from industry peers, as well as both challenges and opportunities driven by the COVID-19 pandemic.
 
 Between 2019 and 2022, ApexPlay served over 88,000 customers and processed more than 108,000 transactions, generating over $28 million in revenue. The available dataset covers multiple business dimensions, including sales performance, product trends, regional distribution, and customer loyalty programs.
 
-Reporting to the Head of Operations, an in-depth analysis was conducted to uncover key insights, trends, and overall business performance from ApexPlay’s transaction data between 2019 and 2022. This analysis provides actionable insights for cross-functional teams—including Finance, Sales, Product, and Marketing—to better understand performance, optimize day-to-day operations, and enhance the company’s ability to deliver high-quality products to customers worldwide.
+Reporting to the Head of Operations, an in-depth analysis was conducted to uncover key insights, trends, and overall business performance from ApexPlay’s transaction data between 2019 and 2022. This analysis provides actionable insights for cross-functional teams including Finance, Sales, Product, and Marketing to better understand performance, optimize day-to-day operations, and enhance the company’s ability to deliver high-quality products to customers worldwide.
 </p>
 
 <ul>
@@ -43,10 +43,11 @@ ApexPlay Gaming and Retail total sales from 2019 to 2022 reached $28M, with 108K
 	
 * By 2022, declines in both demand and spending suggest a broader market slowdown, highlighting the need to **focus on increasing customer spend value rather than acquisition and new customer traffic.**
   
-* Historically, non loyalty customers have been outspending loyalty customers in basket size up until the end of 2021. However, as the loyalty program gained popularity over time, loyalty customers’ AOV increased and, by 2022, they were spending on average $30 more than non-loyalty customers.
+* Historically, non loyalty customers have been outspending loyalty customers in basket size up until the end of 2021. However, as the loyalty program gained popularity over time AOV increased and **loyalty customers were spending on average $30 more than non-loyalty customers in 2022**.
   
 * **One in nine MacBook Air customers decided it wasn't worth keeping**, and at $1,100 a unit, those 451 decisions didn't just reverse a sale, they likely **cost the business close to $700,000 in real net losses** when you account for everything that happens after a customer ships a laptop back.
-  
+
+  <div align="center">
   <table>
 	  <tr>
 		  <th>Recommendation</th>
@@ -74,7 +75,7 @@ ApexPlay Gaming and Retail total sales from 2019 to 2022 reached $28M, with 108K
 	  </tr>
 	 
   </table>
-
+  </div>
 
 
 <h1 align= "center">Deep Level Insights</h1>
