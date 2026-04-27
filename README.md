@@ -16,8 +16,6 @@
 
 <p>ApexPlay Gaming and Electronics Retail is an e-commerce company specializing in popular electronic products across the United States. Since its launch in 2018, the company has experienced significant growth, expanding its reach to a global customer base across four regions. Along the way, ApexPlay has faced increasing competition from industry peers, as well as both challenges and opportunities driven by the COVID-19 pandemic.
 
-Between 2019 and 2022, ApexPlay served over 88,000 customers and processed more than 108,000 transactions, generating over $28 million in revenue. The available dataset covers multiple business dimensions, including sales performance, product trends, regional distribution, and customer loyalty programs.
-
 Reporting to the Head of Operations, an in-depth analysis was conducted to uncover key insights, trends, and overall business performance from ApexPlay’s transaction data between 2019 and 2022. This analysis provides actionable insights for cross-functional teams including Finance, Sales, Product, and Marketing to better understand performance, optimize day-to-day operations, and enhance the company’s ability to deliver high-quality products to customers worldwide.
 </p>
 
@@ -37,7 +35,7 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 	
 <h1 align="center">Executive Summary</h1> 
 <img width="1161" height="562" alt="Screenshot 2026-04-23 at 10 58 14 PM" src="https://github.com/user-attachments/assets/a62d64c1-e17e-4537-b396-fdb946f090c7" />
-ApexPlay Gaming and Retail total sales from 2019 to 2022 reached $28M, with 108K total orders. The company's average order value (AOV) across all years stands at $260 per order.
+* ApexPlay Gaming and Retail generated **over $28M in sales revenue** from 108K orders between 2019 and 2022 with customers spending an **average of $260 (AOV) per transcation**.
 
 * Revenue growth in 2020 was driven by both a 101% increase in order volume and higher customer spending, indicating a **temporary demand surge caused by the pandemic rather than sustainable growth**. Although order volume remained strong post-2020, declining AOV led to reduced revenue, signaling a shift toward value-conscious purchasing behavior.
 	
@@ -153,7 +151,7 @@ ApexPlay Gaming and Retail total sales from 2019 to 2022 reached $28M, with 108K
 
 
 
-* Of the total revenue lost due to refund, apple products make up more than half of that, ~53% at $1.2M loss in revenue to refunded products and a 5.9% refund rate and 3k returns
+* **Apple products make up more than half of the total revenue lost due to refunds**, ~53% at $1.2M loss in revenue to refunded products and a 5.9% refund rate and 3k returns
 
 * Frequently most returned apple product was airpods headphones (2622 returns) accounting for 85% or apple product returns. Similarly the Macbook air laptop had the highest refund rate (11.9%) amongst apple products, 451 out of 3946 orders
 
@@ -199,9 +197,9 @@ ApexPlay Gaming and Retail total sales from 2019 to 2022 reached $28M, with 108K
 * Accelerate Loyalty Program Enrollment as a Primary Revenue Growth Strategy: Make loyalty enrollment a primary marketing KPI alongside customer acquisition — with a specific target for converting existing non-loyalty customers into active program members.
 * build in-app enrollment prompts, push notification sequences, and cart reminder automations that capture the behavioral advantage already demonstrated by mobile-enrolled members
 
-<h1 align="center">Further Analysis</h1>
+<h2 align="center">Further Analysis</h2>
 
-* Conduct an immediate Q4 2022 investigation to isolate the primary cause of the collapse whether competitor entry, traffic decline, conversion rate failure, or inventory constraints
+* Conduct an immediate Q4 2022 investigation to isolate the primary cause of the collapse whether competitor entry, traffic decline, conversion rate failure, or inventory constraints and create action plans due by the next company town hall
 
 
 </body>
