@@ -84,7 +84,7 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 <img width="2294" height="610" alt="image" src="https://github.com/user-attachments/assets/dc8584dd-5e99-4c85-8818-db378710ec20" />
 </DIV>
 
-* Revenue grew steadily throughout 2019 before experiencing explosive growth in 2020, reaching an all-time monthly high of $1.2M in December 2020. This surge was largely driven by the COVID-19 pandemic.
+* **Revenue grew steadily throughout 2019 before experiencing explosive growth in 2020**, reaching an all-time monthly high of $1.2M in December 2020. This surge was largely driven by the COVID-19 pandemic.
 
 * **The macbook laptop, gaming monitor and apple headdhpones** were the main drivers of the revenue boost, products associated with home                entertainment and work from home equipmemnts
 
@@ -101,13 +101,12 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 <DIV align="center">	
 <img width="861" height="469" alt="Screenshot 2026-04-23 at 1 53 36 PM" src="https://github.com/user-attachments/assets/99908e2f-3780-4e79-9aea-40295eb746bf" />
 </DIV>
-* Top performing products across the four years are 27in gaming monitor, apple airpods, macbook air laptop and thinkpad laptop which account for 85% of total revenue
+
+* Top performing products across the four years are 27In 4K gaming monitor, Apple Airpods Headphones, Macbook Air Laptop which account for 85% of total revenue.
 
 * While 27k gaming monitor contributed mjorly to the total revenue (35%), customers were making more and frequent orders for the apple airpods and headphones, which is almost double the volume amount of the gaming monitor.
   
-* Total sales from 2019-2022 is 28M with monthly sales ranging from $178k-$1.3M
-  
-* Top pereforming product was the gaming monitor( amoost $10M in sales revenue), worst performing roduct is the bose soundport ($3k) though missing data would need to check with team
+* **Top performing product was the gaming monitor**(~$10M in sales revenue), **worst performing roduct is the bose soundport** ($3k) though missing data would need to check with sales team.
 
 
 </ul>
@@ -119,11 +118,11 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 </div>
 
 
-* Historically, non loyalty customers have been outspending loyalty customers in basket size up until the end of 2021. However, as the loyalty program gained popularity over time, loyalty customers’ AOV increased and, by 2022, they were spending on average $30 more than non-loyalty customers.
+* Historically, non loyalty customers have been outspending loyalty customers in basket size up until the end of 2021. However, as the loyalty program gained popularity over time AOV increased and **loyalty customers were spending on average $30 more than non-loyalty customers in 2022**.
   
-* AOV and order volume for loyalty customers have sustained growth beyond the pandemic boom with revenue growing $0.4 in 2019 to $2.7M in 2022 and an AOV growth rate of 18% from 2019 to 2022.
+* **AOV and order volume for loyalty customers have sustained growth beyond the pandemic boom** with revenue growing $0.4 in 2019 to $2.7M in 2022 and an AOV growth rate of 18% from 2019 to 2022.
   
-* Non-loyalty customers who initially outspent loyalty members began to decline in early 2021, both order frequency and spend per transaction decreasing over time. By Q4 2022, both segments had dipped and were following a similar downward trend overall.
+* **Non-loyalty customers who initially outspent loyalty members began to decline in early 2021**, both order frequency and spend per transaction decreasing over time. By Q4 2022, both segments had dipped and were following a similar downward trend overall.
   
 * **Loyalty customers who sign-up from mobile place their first order faster than non-loyalty members**~91 days vs 100 days. Likely due to frequent app user engagements such as push notifications and cart reminders
 
@@ -136,7 +135,7 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 
   * Refund rate for products climbed signaifcantly from 2019 to 2021 (6%-9%) and then improved in more recent years, dorpping down to 4% in 2021 and dialing down to 0% in 2022.
 
-  * Apexplay lost a total of $2.2M in revenue due to refunds across the time period, with major share of refunds coming from 24k gaming monitor($743k) and macbook laptop ($648k) 
+  * **Apexplay lost a total of $2.2M in revenue due to refunds** across the time period, with major share of refunds coming from **24k Gaming Monitor($743k) and Macbook Air laptop ($648k)**
 
   * However these two items make up Apex play most expensive products (higher AOV) than other product and a cause for concern and warrants further investigation.
 
@@ -163,11 +162,11 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 ## Regional Trends
 * All regions exhibit similar trends in sales, with a spike and peaking in 2021 and steadily declining afterwards.
   
-* North America accounts for 55% of total revenue ($15 million), reflecting a dominant and well-established market position. However, this presents a company wide risk of a regional market disruption and the need for diversification amongst other underperfomring regions.
+* **North America accounts for 55% of total revenue ($15 million)**, reflecting a dominant and well-established market position. However, this **presents a company wide risk of a regional market disruption** and the need for **diversification amongst other underperfomring regions**.
   
-* APAC region persenet the biggest opportunity for growth. Customers from APAC region have over the years spent more per transaction than any other region and has a AOV growth rate of 17.5% from 2019 to 2022.
+* **APAC region persenet the biggest opportunity for growth**. Customers from APAC region have over the years spent more per transaction than any other region and has a AOV growth rate of 17.5% from 2019 to 2022.
   
-* A high AOV coupled with low order volume ($279, 13K orders) in the APAC region indicates a potential growth gap that warrants further exploration. This may point to limited marketing reach or awareness, supported by the relatively flat performance across marketing channels in the region.
+* A high AOV coupled with low order volume ($279, 13K orders) in the **APAC region indicates a potential growth gap** that warrants further exploration. This may point to limited marketing reach or awareness, supported by the relatively flat performance across marketing channels in the region.
 
 
 <h1 align="center">Recommendations</h1>
@@ -185,18 +184,18 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 	* Unique stategy that treats the APAC region as a distinct market with its own customer acquisition funnel and conversion optimization approach which targets order volume growth. **A 20% increase in APAC order volume, at the region's $279 AOV, would generate approximately $725,000** in incremental revenue from a market that already demoonstrates strong willingness to spend.
 
 ### Product Team
-* Launch an Urgent MacBook Air Refund Root Cause Investigation targeting return reason codes, return timing distribution, and customer review data to identify and fix the dominant refund driver 	
-* Address the Gaming Monitor Revenue Concentration Risk Through Portfolio Expansion by bundling adjascent products that compliment high volume products like adding mechanical keyboards, gaming headsets, monitor stands to the Gaming Monitor product line. This monitizes the existing customer base by giving loyalty buyers more reason to spend within the product catalog
+* **Launch an Urgent MacBook Air Refund Root Cause Investigation** targeting return reason codes, return timing distribution, and customer review data to identify and fix the dominant refund driver 	
+* **Address the Gaming Monitor Revenue Concentration Risk Through Portfolio Expansion** by bundling adjascent products that compliment high volume products like adding mechanical keyboards, gaming headsets, monitor stands to the Gaming Monitor product line. This monitizes the existing customer base by giving loyalty buyers more reason to spend within the product catalog
 * Reaccess the continuation of Bose Soundsport and Apple iPhone due to their low sales performance
 
  ### Marketing Team
-* Build a Dedicated APAC Market Activation Campaign tied around region-specific paid social channels, local-language content, and culturally relevant promotional events.
-* Also access the APAC purchase journey for friction points such as payment methods, shipping costs, delivery windows, and currency display and cloase out top three barriers before the campaign launch to ensure traffic generated converts at a rate that justifies the investment.
+* **Build a Dedicated APAC Market Activation Campaign** tied around region-specific paid social channels, local-language content, and culturally relevant promotional events.
+* **Assess the APAC purchase journey for friction points** such as payment methods, shipping costs, delivery windows, and currency display and cloase out top three barriers before the campaign launch to ensure traffic generated converts at a rate that justifies the investment.
 
 
 ### Loyalty Program
-* Accelerate Loyalty Program Enrollment as a Primary Revenue Growth Strategy: Make loyalty enrollment a primary marketing KPI alongside customer acquisition — with a specific target for converting existing non-loyalty customers into active program members.
-* build in-app enrollment prompts, push notification sequences, and cart reminder automations that capture the behavioral advantage already demonstrated by mobile-enrolled members
+* **Accelerate Loyalty Program Enrollment as a Primary Revenue Growth Strategy**: Make loyalty enrollment a primary marketing KPI alongside customer acquisition — with a specific target for converting existing non-loyalty customers into active program members.
+* **Build in-app enrollment prompts, push notification sequences, and cart reminder automations** that capture the behavioral advantage already demonstrated by mobile-enrolled members
 
 <h2 align="center">Further Analysis</h2>
 
