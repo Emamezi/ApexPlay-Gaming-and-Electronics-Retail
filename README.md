@@ -12,6 +12,8 @@
 </div>
   
 <h1 align="center">Company Backgorund</h1>
+
+
 <p>ApexPlay is an e-commerce company specializing in popular electronic products across the United States. Since its launch in 2018, the company has experienced significant growth, expanding its reach to a global customer base across four regions. Along the way, ApexPlay has faced increasing competition from industry peers, as well as both challenges and opportunities driven by the COVID-19 pandemic.
 
 Between 2019 and 2022, ApexPlay served over 88,000 customers and processed more than 108,000 transactions, generating over $28 million in revenue. The available dataset covers multiple business dimensions, including sales performance, product trends, regional distribution, and customer loyalty programs.
@@ -33,7 +35,7 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 
 <div>
 	
-## Executive Summary
+<h1 align="center">Executive Summary</h1> 
 <img width="1161" height="562" alt="Screenshot 2026-04-23 at 10 58 14 PM" src="https://github.com/user-attachments/assets/a62d64c1-e17e-4537-b396-fdb946f090c7" />
 ApexPlay Gaming and Retail total sales from 2019 to 2022 reached $28M, with 108K total orders. The company's average order value (AOV) across all years stands at $260 per order.
 
@@ -45,13 +47,40 @@ ApexPlay Gaming and Retail total sales from 2019 to 2022 reached $28M, with 108K
   
 * **One in nine MacBook Air customers decided it wasn't worth keeping**, and at $1,100 a unit, those 451 decisions didn't just reverse a sale, they likely **cost the business close to $700,000 in real net losses** when you account for everything that happens after a customer ships a laptop back.
   
-  
+  <table>
+	  <tr>
+		  <th>Recommendation</th>
+		  <th>Primary Owner</th>
+		  <th>Revenue Impact</th>
+		  <th>Urgency</th>
+	  </tr>
+	  <tr>
+		  <td>Q4 2023 recovery plan</td>
+		  <td>Sales, Marketing</td>
+		  <td>$800K–$1M</td>
+		  <td>Immediate</td>
+	  </tr>
+	<tr>
+		  <td>MacBook Air refund root cause investigation</td>
+		  <td>SProduct, Finance</td>
+		  <td>$300K–$350K recovery</td>
+		  <td>Immediate</td>
+	  </tr>
+	  <tr>
+		  <td>Loyalty enrollment acceleration</td>
+		  <td>Marketing</td>
+		  <td>$200K–$400K incremental</td>
+		  <td>Short-term</td>
+	  </tr>
+	 
+  </table>
 
 
-## Deep level Insghts
-### Sales Trends
+
+<h1 align: center">Deep Level Insights</h1>
+
+## Sales Trends
 <DIV>
-	
 <img width="2294" height="610" alt="image" src="https://github.com/user-attachments/assets/dc8584dd-5e99-4c85-8818-db378710ec20" />
 </DIV>
 
@@ -104,17 +133,14 @@ ApexPlay Gaming and Retail total sales from 2019 to 2022 reached $28M, with 108K
   <img width="599" height="343" alt="Screenshot 2026-04-13 at 1 21 44 AM" src="https://github.com/user-attachments/assets/5d8df375-1659-4e73-ac2d-a1fd6dceb0af" />
 
 </div>
-<ul>
-  <li>Refund rate for products climbed signaifcantly from 2019 to 2021 (6%-9%) and then improved in more recent years, dorpping down to 4% in 2021 and dialing down to 0% in 2022.
-</li>
-  <li>Apexplay lost a total of $2.2M in revenue due to refunds across the time period, with major share of refunds coming from 24k gaming monitor($743k) and macbook laptop ($648k) 
-</li>
-  <li>However these two items make up Apex play most expensive products (higher AOV) than other product and a cause for concern and warrants further investigation.
-</li>
-  <li>The least returned product is the Bose soundport headphones with a refund rate of 0%, followed by the samsung charging cable pack at 1.3%, a good indication that these proddct are widely accepted by customers
-</li>
-	<LI></LI>
-</ul>
+
+  * Refund rate for products climbed signaifcantly from 2019 to 2021 (6%-9%) and then improved in more recent years, dorpping down to 4% in 2021 and dialing down to 0% in 2022.
+
+  * Apexplay lost a total of $2.2M in revenue due to refunds across the time period, with major share of refunds coming from 24k gaming monitor($743k) and macbook laptop ($648k) 
+
+  * However these two items make up Apex play most expensive products (higher AOV) than other product and a cause for concern and warrants further investigation.
+
+  * The least returned product is the Bose soundport headphones with a refund rate of 0%, followed by the samsung charging cable pack at 1.3%, a good indication that these proddct are widely accepted by customers
 
  
 
@@ -143,7 +169,8 @@ ApexPlay Gaming and Retail total sales from 2019 to 2022 reached $28M, with 108K
 * A high AOV coupled with low order volume ($279, 13K orders) in the APAC region indicates a potential growth gap that warrants further exploration. This may point to limited marketing reach or awareness, supported by the relatively flat performance across marketing channels in the region.
 
 
-## Recommendation
+<h1 align="center">Recommendations</h1>
+
 
 ### Sales Team
 * **Rebase Sales Targets Against Organic Performance, Not Pandemic Peak**
@@ -170,8 +197,9 @@ ApexPlay Gaming and Retail total sales from 2019 to 2022 reached $28M, with 108K
 * Accelerate Loyalty Program Enrollment as a Primary Revenue Growth Strategy: Make loyalty enrollment a primary marketing KPI alongside customer acquisition — with a specific target for converting existing non-loyalty customers into active program members.
 * build in-app enrollment prompts, push notification sequences, and cart reminder automations that capture the behavioral advantage already demonstrated by mobile-enrolled members
 
-## Further Aanalysis
-* *Conduct an immediate Q4 2022 post-mortem to isolate the primary cause of the collapse whether competitor entry, traffic decline, conversion rate failure, or inventory constraints
+<h1 align="center">Further Analysis</h1>
+
+* Conduct an immediate Q4 2022 investigation to isolate the primary cause of the collapse whether competitor entry, traffic decline, conversion rate failure, or inventory constraints
 
 
 </body>
