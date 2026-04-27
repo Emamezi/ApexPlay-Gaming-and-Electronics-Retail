@@ -62,7 +62,7 @@ ApexPlay Gaming and Retail total sales from 2019 to 2022 reached $28M, with 108K
 	  </tr>
 	<tr>
 		  <td>MacBook Air refund root cause investigation</td>
-		  <td>SProduct, Finance</td>
+		  <td>Product, Finance</td>
 		  <td>$300K–$350K recovery</td>
 		  <td>Immediate</td>
 	  </tr>
@@ -77,7 +77,7 @@ ApexPlay Gaming and Retail total sales from 2019 to 2022 reached $28M, with 108K
 
 
 
-<h1 align: center">Deep Level Insights</h1>
+<h1 align= "center">Deep Level Insights</h1>
 
 ## Sales Trends
 <DIV>
