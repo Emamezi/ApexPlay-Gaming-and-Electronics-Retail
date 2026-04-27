@@ -35,7 +35,8 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 	
 <h1 align="center">Executive Summary</h1> 
 <img width="1161" height="562" alt="Screenshot 2026-04-23 at 10 58 14 PM" src="https://github.com/user-attachments/assets/a62d64c1-e17e-4537-b396-fdb946f090c7" />
-* ApexPlay Gaming and Retail generated **over $28M in sales revenue** from 108K orders between 2019 and 2022 with customers spending an **average of $260 (AOV) per transcation**.
+
+* ApexPlay Gaming and Retail generated over **$28M in sales revenue** from 108K orders between 2019 and 2022 with customers spending an **average of $260 (AOV) per transaction**.
 
 * Revenue growth in 2020 was driven by both a 101% increase in order volume and higher customer spending, indicating a **temporary demand surge caused by the pandemic rather than sustainable growth**. Although order volume remained strong post-2020, declining AOV led to reduced revenue, signaling a shift toward value-conscious purchasing behavior.
 	
