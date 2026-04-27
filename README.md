@@ -45,7 +45,7 @@ ApexPlay Gaming and Retail total sales from 2019 to 2022 reached $28M, with 108K
   
 * Historically, non loyalty customers have been outspending loyalty customers in basket size up until the end of 2021. However, as the loyalty program gained popularity over time AOV increased and **loyalty customers were spending on average $30 more than non-loyalty customers in 2022**.
   
-* **One in nine MacBook Air customers decided it wasn't worth keeping**, and at $1,100 a unit, those 451 decisions didn't just reverse a sale, they likely **cost the business close to $700,000 in real net losses** when you account for everything that happens after a customer ships a laptop back.
+* **One in nine MacBook Air customers decided it wasn't worth keeping**, and at $1,588 a unit, those 451 decisions didn't just reverse a sale, they likely **cost the business close to $743K in real net losses** when you account for everything that happens after a customer ships a laptop back.
 
   <div align="center">
   <table>
@@ -147,7 +147,8 @@ ApexPlay Gaming and Retail total sales from 2019 to 2022 reached $28M, with 108K
 
 ## Spotlight: Apple Products Refunds
 <div align="center">
-  <img width="648" height="439" alt="Screenshot 2026-04-13 at 1 47 06 AM" src="https://github.com/user-attachments/assets/461e32e5-2771-4569-8314-fcc705e81e53" />
+  <!-- <img width="648" height="439" alt="Screenshot 2026-04-13 at 1 47 06 AM" src="https://github.com/user-attachments/assets/461e32e5-2771-4569-8314-fcc705e81e53" /> -->
+<img width="2082" height="768" alt="image" src="https://github.com/user-attachments/assets/063b56f9-b2fc-4957-ad12-50ea6054c10a" />
 </div>
 
 
@@ -156,7 +157,7 @@ ApexPlay Gaming and Retail total sales from 2019 to 2022 reached $28M, with 108K
 
 * Frequently most returned apple product was airpods headphones (2622 returns) accounting for 85% or apple product returns. Similarly the Macbook air laptop had the highest refund rate (11.9%) amongst apple products, 451 out of 3946 orders
 
-* **One in nine MacBook Air customers decided it wasn't worth keeping**, and at $1,100 a unit, those 451 decisions didn't just reverse a sale, they likely cost this business close to $700,000 in real net losses when you account for everything that happens after a customer ships a laptop back.
+* **One in nine MacBook Air customers decided it wasn't worth keeping**, and at $1,588 a unit, those 451 decisions didn't just reverse a sale, they likely cost this business close to $743K in real net losses when you account for everything that happens after a customer ships a laptop back.
 
 
 
