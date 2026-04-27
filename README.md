@@ -35,16 +35,15 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 	
 ## Executive Summary
 <img width="1161" height="562" alt="Screenshot 2026-04-23 at 10 58 14 PM" src="https://github.com/user-attachments/assets/a62d64c1-e17e-4537-b396-fdb946f090c7" />
+ApexPlay Gaming and Retail total sales from 2019 to 2022 reached $28M, with 108K total orders. The company's average order value (AOV) across all years stands at $260 per order.
 
-* Revenue growth in 2020 was driven by both a 101% increase in order volume and higher customer spending, indicating a temporary demand surge rather than sustainable growth. Although order volume remained strong post-2020, declining AOV led to reduced revenue, signaling a shift toward value-conscious purchasing behavior.
+* Revenue growth in 2020 was driven by both a 101% increase in order volume and higher customer spending, indicating a **temporary demand surge caused by the pandemic rather than sustainable growth**. Although order volume remained strong post-2020, declining AOV led to reduced revenue, signaling a shift toward value-conscious purchasing behavior.
 	
-By 2022, declines in both demand and spending suggest a broader market slowdown, highlighting the need to focus on increasing customer spend value rather than acquisition and new customer traffic.
-
-* From 2019-2022 average number of slaes per year was 27k with an average yearly revenue of $7M and AOV of $254. 2021 saw the highest number of sales 36k, but 2020 on average had the most expensive sales (AOV of $300)
+* By 2022, declines in both demand and spending suggest a broader market slowdown, highlighting the need to **focus on increasing customer spend value rather than acquisition and new customer traffic.**
   
-* Order volume and total sales reveneue more than doubled to $10M with AOV reaching an all time high of $300 across the four years, However 2021 saw the highest order volume but a decline in AOV suggesting customers were spending less but customer base increased
+* Historically, non loyalty customers have been outspending loyalty customers in basket size up until the end of 2021. However, as the loyalty program gained popularity over time, loyalty customers’ AOV increased and, by 2022, they were spending on average $30 more than non-loyalty customers.
   
-*In 2022, market stabilized likely relatble to pre-pandemic sales and ordervolume, while AOV retruned to 2019 levels, total sales and order volume inceased by 28% an encouraging sign that not all pandemic era gains were lost</li>
+* **One in nine MacBook Air customers decided it wasn't worth keeping**, and at $1,100 a unit, those 451 decisions didn't just reverse a sale, they likely **cost the business close to $700,000 in real net losses** when you account for everything that happens after a customer ships a laptop back.
   
   
 
@@ -130,7 +129,7 @@ By 2022, declines in both demand and spending suggest a broader market slowdown,
 
 * Frequently most returned apple product was airpods headphones (2622 returns) accounting for 85% or apple product returns. Similarly the Macbook air laptop had the highest refund rate (11.9%) amongst apple products, 451 out of 3946 orders
 
-* **One in nine MacBook Air customers decided it wasn't worth keeping**, and at $1,100 a unit, those 451 decisions didn't just reverse a sale, they likely cost this business close to $700,000 in real net losses when you account for everything that happens after a customer ships a laptop back."
+* **One in nine MacBook Air customers decided it wasn't worth keeping**, and at $1,100 a unit, those 451 decisions didn't just reverse a sale, they likely cost this business close to $700,000 in real net losses when you account for everything that happens after a customer ships a laptop back.
 
 
 
@@ -145,5 +144,34 @@ By 2022, declines in both demand and spending suggest a broader market slowdown,
 
 
 ## Recommendation
+
+### Sales Team
+* **Rebase Sales Targets Against Organic Performance, Not Pandemic Peak**
+  * Rebase future sales targets against the 2019 organic growth trajectory rather than the 2020 pandemic peak. Build a normalized growth model that projects from 2019's $3.87M baseline, applies a realistic organic growth rate, and uses that trajectory as the performance benchmark for 2023 and beyond.
+    
+* **Prioritize Q4 Demand Recovery as the Single Biggest Near-Term Revenue Opportunity**
+ 	* Build reecovery plans with specific revenue targets, promotional calendar, inventory commitments, and channel investment  outlined by Q2 2023  to prevent a repeat at the most commercially critical moment of the year.
+	* 	A Q4 recovery to even 60% of 2021 Q4 performance levels would potentially add approximately $800,000 to $1 million in revenue in a single quarter which would make it the highest return sales initiative available in the near term without additional new product or market expansion investments.
+  
+* **Develop a Dedicated Sales Strategy for the APAC Region**
+	* Unique stategy that treats the APAC region as a distinct market with its own customer acquisition funnel and conversion optimization approach which targets order volume growth. **A 20% increase in APAC order volume, at the region's $279 AOV, would generate approximately $725,000** in incremental revenue from a market that already demoonstrates strong willingness to spend.
+
+### Product Team
+* Launch an Urgent MacBook Air Refund Root Cause Investigation targeting return reason codes, return timing distribution, and customer review data to identify and fix the dominant refund driver 	
+* Address the Gaming Monitor Revenue Concentration Risk Through Portfolio Expansion by bundling adjascent products that compliment high volume products like adding mechanical keyboards, gaming headsets, monitor stands to the Gaming Monitor product line. This monitizes the existing customer base by giving loyalty buyers more reason to spend within the product catalog
+* Reaccess the continuation of Bose Soundsport and Apple iPhone due to their low sales performance
+
+ ### Marketing Team
+* Build a Dedicated APAC Market Activation Campaign tied around region-specific paid social channels, local-language content, and culturally relevant promotional events.
+* Also access the APAC purchase journey for friction points such as payment methods, shipping costs, delivery windows, and currency display and cloase out top three barriers before the campaign launch to ensure traffic generated converts at a rate that justifies the investment.
+
+
+### Loyalty Program
+* Accelerate Loyalty Program Enrollment as a Primary Revenue Growth Strategy: Make loyalty enrollment a primary marketing KPI alongside customer acquisition — with a specific target for converting existing non-loyalty customers into active program members.
+* build in-app enrollment prompts, push notification sequences, and cart reminder automations that capture the behavioral advantage already demonstrated by mobile-enrolled members
+
+## Further Aanalysis
+* *Conduct an immediate Q4 2022 post-mortem to isolate the primary cause of the collapse whether competitor entry, traffic decline, conversion rate failure, or inventory constraints
+
 
 </body>
