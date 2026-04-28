@@ -174,12 +174,14 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
  	* Build reecovery plans with specific revenue targets, promotional calendar, inventory commitments, and channel investment to prevent a repeat at the most commercially critical moment of the year.
 	* 	A Q4 recovery to even 60% of 2021 Q4 performance levels would potentially add approximately $800,000 to $1 million in revenue in a single quarter which would make it the highest return sales initiative available in the near term without additional new product or market expansion investments.
   
-* **Develop a Dedicated Sales Strategy for the APAC Region**
-	* Unique stategy that treats the APAC region as a distinct market with its own customer acquisition funnel and conversion optimization approach which targets order volume growth. **A 20% increase in APAC order volume, at the region's $279 AOV, would generate approximately $725,000** in incremental revenue from a market that already demoonstrates strong willingness to spend.
+* **Develop a Dedicated Sales Strategy for the APAC Region** that treats it as a distinct market with its own customer acquisition funnel and conversion optimization approach which targets order volume growth.
+ * **A 20% increase in APAC order volume, at the region's $279 AOV, would generate approximately $725,000** in incremental revenue from a market that already demoonstrates strong willingness to spend.
 
 ### Product Team
-* **Launch an Urgent MacBook Air Refund Root Cause Investigation** targeting return reason codes, return timing distribution, and customer review data to identify and fix the dominant refund driver 	
-* **Address the Gaming Monitor Revenue Concentration Risk Through Portfolio Expansion** by bundling adjascent products that compliment high volume products like adding mechanical keyboards, gaming headsets, monitor stands to the Gaming Monitor product line. This monitizes the existing customer base by giving loyalty buyers more reason to spend within the product catalog
+* **Launch an Urgent MacBook Air Refund Root Cause Investigation** targeting return reason codes, return timing distribution, and customer review data to identify and fix the dominant refund driver
+  
+* **Address the Gaming Monitor Revenue Concentration Risk Through Portfolio Expansion** by bundling adjascent products that compliment high volume products like adding mechanical keyboards, gaming headsets, monitor stands to the Gaming Monitor product line.
+  
 * Reaccess the continuation of Bose Soundsport and Apple iPhone due to their low sales performance
 
  ### Marketing Team
