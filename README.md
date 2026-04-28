@@ -44,7 +44,7 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
   
 * Historically, non loyalty customers have been outspending loyalty customers in basket size up until the end of 2021. However, as the loyalty program gained popularity over time AOV increased and **loyalty customers were spending on average $30 more than non-loyalty customers in 2022**.
   
-* **One in nine MacBook Air customers decided it wasn't worth keeping**, and at $1,588 a unit, those 451 decisions didn't just reverse a sale, they likely **cost the business close to $743K in real net losses** when you account for everything that happens after a customer ships a laptop back.
+* **One in nine MacBook Air customers decided it wasn't worth keeping**, and at $1,588 a unit, those 451 decisions didn't just reverse a sale, they likely **cost the business close to $743K in real net losses**.
 
   <div align="center">
   <table>
@@ -152,8 +152,7 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 
 * Frequently most returned apple product was airpods headphones (2622 returns) accounting for 85% or apple product returns. Similarly the Macbook air laptop had the highest refund rate (11.9%) amongst apple products, 451 out of 3946 orders
 
-* **One in nine MacBook Air customers decided it wasn't worth keeping**, and at $1,588 a unit, those 451 decisions didn't just reverse a sale, they likely cost this business close to $743K in real net losses when you account for everything that happens after a customer ships a laptop back.
-
+* **One in nine MacBook Air customers decided it wasn't worth keeping**, and at $1,588 a unit, those 451 decisions didn't just reverse a sale, they likely cost this business close to $743K in net losses. 
 
 
 ## Regional Trends
@@ -170,11 +169,9 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 
 
 ### Sales Team
-* **Rebase Sales Targets Against Organic Performance, Not Pandemic Peak**
-  * Rebase future sales targets against the 2019 organic growth trajectory rather than the 2020 pandemic peak. Build a normalized growth model that projects from 2019's $3.87M baseline, applies a realistic organic growth rate, and uses that trajectory as the performance benchmark for 2023 and beyond.
     
 * **Prioritize Q4 Demand Recovery as the Single Biggest Near-Term Revenue Opportunity**
- 	* Build reecovery plans with specific revenue targets, promotional calendar, inventory commitments, and channel investment  outlined by Q2 2023  to prevent a repeat at the most commercially critical moment of the year.
+ 	* Build reecovery plans with specific revenue targets, promotional calendar, inventory commitments, and channel investment to prevent a repeat at the most commercially critical moment of the year.
 	* 	A Q4 recovery to even 60% of 2021 Q4 performance levels would potentially add approximately $800,000 to $1 million in revenue in a single quarter which would make it the highest return sales initiative available in the near term without additional new product or market expansion investments.
   
 * **Develop a Dedicated Sales Strategy for the APAC Region**
@@ -187,11 +184,11 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 
  ### Marketing Team
 * **Build a Dedicated APAC Market Activation Campaign** tied around region-specific paid social channels, local-language content, and culturally relevant promotional events.
-* **Assess the APAC purchase journey for friction points** such as payment methods, shipping costs, delivery windows, and currency display and cloase out top three barriers before the campaign launch to ensure traffic generated converts at a rate that justifies the investment.
+* **Assess the APAC purchase journey for friction points** such as payment methods, shipping costs, delivery windows, and currency display and close out top three barriers before the campaign launch to ensure traffic generated converts at a rate that justifies the investment.
 
 
 ### Loyalty Program
-* **Accelerate Loyalty Program Enrollment as a Primary Revenue Growth Strategy**: Make loyalty enrollment a primary marketing KPI alongside customer acquisition — with a specific target for converting existing non-loyalty customers into active program members.
+* **Accelerate Loyalty Program Enrollment as a Primary Revenue Growth Strategy**: Make loyalty enrollment a primary marketing KPI alongside customer acquisition with a specific target for converting existing non-loyalty customers into active program members.
 * **Build in-app enrollment prompts, push notification sequences, and cart reminder automations** that capture the behavioral advantage already demonstrated by mobile-enrolled members
 
 <h2 align="center">Further Analysis</h2>
