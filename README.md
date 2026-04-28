@@ -86,14 +86,11 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 
 * **Revenue grew steadily throughout 2019 before experiencing explosive growth in 2020**, reaching an all-time monthly high of $1.2M in December 2020. This surge was largely driven by the COVID-19 pandemic.
 
-* **The macbook laptop, gaming monitor and apple headdhpones** were the main drivers of the revenue boost, products associated with home                entertainment and work from home equipmemnts
-
 - However, **this level of growth was not sustained.** Revenue declined by 43% sharply in early 2021 from AOV ($311-$255) and over-volume contraction(4K-2.5K), before showing a modest recovery toward the end of 2022, likely driven by seasonal factors such as Black Friday sales and holiday promotions.
 
 - **Revenue declined sharply from 2021-2022 by a 46% drop** indicating a broader market  slowdown and contraction ona quarter-over-quarter basis until it hit an all time low of $178K in October 2022, lowest in the entire time peroid.
--  While Average Order Value (AOV) declined steadily back toward pre-pandemic 2019 levels, order volume experienced a much more severe contraction. Orders fell significantly in September and throughout Q4, reaching the lowest levels across the entire observed period, suggesting demand-side weakness rather than pricing alone driving the downturn
 
-- **Revenue and order volume remained 28% above 2019 levels**, indicating that some pandemic-driven gains were retained, the sharp month-over-month decline in Q4 of 2022 signals a potential downturn likely demand-driven rather than pricing-related, and may be attributed to reduced traffic casued by major competitor entry into to the market, weaker conversion rates, or product and inventory constraints.
+- **Revenue and order volume remained 28% above 2019 levels**, indicating that some pandemic-driven gains were retained. 
 
 
 
