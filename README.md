@@ -80,6 +80,7 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 * The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 10,8127 records.
 
 <img width="1130" height="850" alt="image" src="https://github.com/user-attachments/assets/bab0c203-4d6a-4d92-bd1f-31bb3c030bf1" />
+<img width="990" height="782" alt="image" src="https://github.com/user-attachments/assets/6a098414-3697-4752-bd45-feecacbb4284" />
 
 
 <h1 align= "center">Deep Level Insights</h1>
