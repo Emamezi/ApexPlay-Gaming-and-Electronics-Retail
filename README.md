@@ -34,7 +34,9 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 <div>
 <br>
 <h1 align="center">Executive Summary</h1> 
-<img width="2280" height="1188" alt="image" src="https://github.com/user-attachments/assets/93b9c28c-3700-42de-a60d-e549111a5289" />
+<img width="2268" height="1212" alt="image" src="https://github.com/user-attachments/assets/d36c1bf2-c68e-4de0-982c-e539cf402efa" />
+
+<!-- <img width="2280" height="1188" alt="image" src="https://github.com/user-attachments/assets/93b9c28c-3700-42de-a60d-e549111a5289" /> -->
 
 
 * ApexPlay Gaming and Retail generated over **$28M in sales revenue** from 108K orders between 2019 and 2022 with customers spending an **average of $260 (AOV) per transaction**.
