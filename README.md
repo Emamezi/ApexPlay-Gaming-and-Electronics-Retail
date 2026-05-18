@@ -7,12 +7,12 @@
   height: 100vh;
   margin: 0;
 ">
+	
 <div align="center">
-<img  width="520px" alt="ApexPlay logo design with glowing effect" src="https://github.com/user-attachments/assets/3be3e981-be3b-44cc-ba54-57d55417bbb1" / margin=0px>
+<img   width="40%" alt="ApexPlay logo design with glowing effect" src="https://github.com/user-attachments/assets/3be3e981-be3b-44cc-ba54-57d55417bbb1" / margin=0px>
 </div>
   
-<h1 align="center">Company Backgorund</h1>
-
+<h1 align="center">Client Backgorund</h1>
 
 <p>ApexPlay Gaming and Electronics Retail is an e-commerce company specializing in popular electronic products across the United States. Since its launch in 2018, the company has experienced significant growth, expanding its reach to a global customer base across four regions. Along the way, ApexPlay has faced increasing competition from industry peers, as well as both challenges and opportunities driven by the COVID-19 pandemic.
 
@@ -32,9 +32,10 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 </ul>
 
 <div>
-	
+<br>
 <h1 align="center">Executive Summary</h1> 
-<img width="1161" height="562" alt="Screenshot 2026-04-23 at 10 58 14 PM" src="https://github.com/user-attachments/assets/a62d64c1-e17e-4537-b396-fdb946f090c7" />
+<img width="2280" height="1188" alt="image" src="https://github.com/user-attachments/assets/93b9c28c-3700-42de-a60d-e549111a5289" />
+
 
 * ApexPlay Gaming and Retail generated over **$28M in sales revenue** from 108K orders between 2019 and 2022 with customers spending an **average of $260 (AOV) per transaction**.
 
@@ -75,11 +76,14 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 	 
   </table>
   </div>
+<br>
+<!-- <br> -->
 
-## Dataset Structure and ERD (Entity relationship diagram)
-* The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 10,8127 records.
-
-<img width="690" height="482" alt="image" src="https://github.com/user-attachments/assets/6a098414-3697-4752-bd45-feecacbb4284" />
+<h1 align="center"> Dataset Structure and ERD (Entity Relationship Diagram)</h1>
+The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 10,8127 records.
+<div align= "center">
+<img  width="690" height="482" alt="image" src="https://github.com/user-attachments/assets/6a098414-3697-4752-bd45-feecacbb4284" />
+</div>
 
 
 <h1 align= "center">Deep Level Insights</h1>
@@ -114,7 +118,7 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 </ul>
 
 
-## Loyalty Program
+## Loyalty Program Performance
 <div align="center">
 <img width="2098" height="904" alt="image" src="https://github.com/user-attachments/assets/30a51b14-41a3-4dda-ab67-0551a3a423e0" />
 </div>
