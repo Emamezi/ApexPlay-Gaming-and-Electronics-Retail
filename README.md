@@ -137,15 +137,12 @@ The database structure as seen below consists of four tables: orders, customers,
 
 ## Refund Rates
 <div align="center">
-  <img width="599" height="343" alt="Screenshot 2026-04-13 at 1 21 44 AM" src="https://github.com/user-attachments/assets/5d8df375-1659-4e73-ac2d-a1fd6dceb0af" />
-
+	<img width="80%" alt="image" src="https://github.com/user-attachments/assets/132a02b1-b25b-42d2-813e-f395a0e3eb95" />
 </div>
 
-  * Refund rate for products climbed signaifcantly from 2019 to 2021 (6%-9%) and then improved in more recent years, dorpping down to 4% in 2021 and dialing down to 0% in 2022.
+  * Product refund rates climbed significantly from 2019 to 2021 (6%-9%) and then improved in more recent years, dropping down to 4% in 2021 and dialing down to 0% in 2022.
 
-  * **Apexplay lost a total of $2.2M in revenue due to refunds** across the time period, with major share of refunds coming from **24k Gaming Monitor($743k) and Macbook Air laptop ($648k)**
-
-  * However these two items make up Apex play most expensive products (higher AOV) than other product and a cause for concern and warrants further investigation.
+  * The Gaming Monitor and MacBook Air Laptop make up Apex play most expensive products (higher AOV) and thus a cause for concern and warrants further investigation into refund reasons.
 
   * The least returned product is the Bose soundport headphones with a refund rate of 0%, followed by the samsung charging cable pack at 1.3%, a good indication that these products are widely accepted by customers.
 
@@ -154,7 +151,7 @@ The database structure as seen below consists of four tables: orders, customers,
 ## Spotlight: Apple Products Refunds
 <div align="center">
   <!-- <img width="648" height="439" alt="Screenshot 2026-04-13 at 1 47 06 AM" src="https://github.com/user-attachments/assets/461e32e5-2771-4569-8314-fcc705e81e53" /> -->
-<img width="2082" height="768" alt="image" src="https://github.com/user-attachments/assets/063b56f9-b2fc-4957-ad12-50ea6054c10a" />
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/063b56f9-b2fc-4957-ad12-50ea6054c10a" />
 </div>
 
 
