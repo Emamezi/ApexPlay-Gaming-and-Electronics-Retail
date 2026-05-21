@@ -109,14 +109,10 @@ The database structure as seen below consists of four tables: orders, customers,
 <DIV align="center">	
 <img width="861" height="469" alt="Screenshot 2026-04-23 at 1 53 36 PM" src="https://github.com/user-attachments/assets/99908e2f-3780-4e79-9aea-40295eb746bf" />
 </DIV>
-
-* Top performing products across the four years are 27In 4K gaming monitor, Apple Airpods Headphones, Macbook Air Laptop which account for 85% of total revenue.
-
-* While 27In 4K Gaming Monitor contributed mjorly to the total revenue (35%), customers were making more and frequent orders for the apple airpods and headphones, which is almost double the volume amount of the gaming monitor.
   
-* **Top performing product was the 27In 4K Gaming monitor**(~$10M in sales revenue), **worst performing roduct is the Bose Soundport Headphones** ($3k) though missing some monthly sales data would need to check in with sales and product team.
-
-
+* **Top performing product was the 27In 4K Gaming monitor**(~$10M in sales revenue), **worst performing roduct is the Bose Soundport Headphones** ($3k) though missing some monthly sales data would need to check in with the sales and product team.
+  
+* * While 27In 4K Gaming Monitor contributed mjorly to the total revenue (35%), customers were making more and frequent orders for the apple airpods and headphones, which is almost double the volume amount of the gaming monitor.
 </ul>
 
 
