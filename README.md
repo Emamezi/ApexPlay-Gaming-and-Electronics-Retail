@@ -21,14 +21,12 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to uncov
 
 <ul>
   <h2>North Star Metrics</h2>
-  <li><b>Sales Trends:</b>
-Analyzing key performance indicators such as total sales revenue, order volume, and average order value (AOV) to understand growth patterns, seasonality, and overall sales performance.</li>
-  <li><b>Product Performance:</b>
-Evaluating product lines based on revenue contribution, market demand, and refund rates to identify high-performing products and areas requiring optimization or potential discontinuation.</li>
-  <li><b>Loyalty Program Evaluation:</b> 
-Assessing the effectiveness of the company’s loyalty program in driving customer engagement, repeat purchases, and retention, with recommendations to enhance its impact.</li>
-  <li><b>Regional Performance:</b>
-    Analyzing sales and product performance across different regions to uncover geographic trends, identify high-growth markets, and highlight areas for operational improvement.</li>
+  <li><b>Sales Trends:</b> Focusing on key metrics of sales revenue, order volume, and average order value (AOV).</li>
+  <li><b>Product Performance:</b> Analyzing different product lines, market impact, and refund rates to inform strategic product decisions.
+</li>
+  <li><b>Loyalty Program Evaluation:</b> Evaluating the effectiveness of ApexPlay's loyalty program and providing recommendations to maximize customer engagement and retention.
+<!-- Assessing the effectiveness of the company’s loyalty program in driving customer engagement, repeat purchases, and retention, with recommendations to enhance its impact.</li> -->
+  <li><b>Regional Performance:</b> Evaluating regional demand and product performance across regions to identify growth markets and areas for improvement.</li>
 </ul>
 
 <div>
