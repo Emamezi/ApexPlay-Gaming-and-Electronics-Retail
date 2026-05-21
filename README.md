@@ -90,7 +90,7 @@ The database structure as seen below consists of four tables: orders, customers,
 
 ## Sales Trends
 <DIV>
-	<img width="100%" alt="image" src="https://github.com/user-attachments/assets/9c6063b6-414f-4745-ac2c-78a2fa2feca3" />
+	<img width="2514" height="508" alt="image" src="https://github.com/user-attachments/assets/18712b4c-d2ec-45aa-902b-7c49feff0b4e" />
 
 <!-- <img width="2294" height="610" alt="image" src="https://github.com/user-attachments/assets/dc8584dd-5e99-4c85-8818-db378710ec20" /> -->
 </DIV>
