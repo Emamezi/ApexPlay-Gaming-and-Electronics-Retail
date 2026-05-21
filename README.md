@@ -92,7 +92,9 @@ The database structure as seen below consists of four tables: orders, customers,
 
 ## Sales Trends
 <DIV>
-<img width="2294" height="610" alt="image" src="https://github.com/user-attachments/assets/dc8584dd-5e99-4c85-8818-db378710ec20" />
+	<img width="100%" alt="image" src="https://github.com/user-attachments/assets/9c6063b6-414f-4745-ac2c-78a2fa2feca3" />
+
+<!-- <img width="2294" height="610" alt="image" src="https://github.com/user-attachments/assets/dc8584dd-5e99-4c85-8818-db378710ec20" /> -->
 </DIV>
 
 * **Revenue grew steadily throughout 2019 before experiencing explosive growth in 2020**, reaching an all-time monthly high of $1.2M in December 2020. This surge was largely driven by the COVID-19 pandemic.
@@ -178,33 +180,32 @@ The database structure as seen below consists of four tables: orders, customers,
 
 ### Sales Team
     
-* **Prioritize Q4 Demand Recovery** by building out reecovery plans with specific revenue targets, promotional calendar,inventory commitments, and channel investment to prevent a repeat at the most commercially critical moment of the year.
-	<!--A Q4 recovery to even 60% of 2021 Q4 performance levels would potentially add approximately $800,000 to $1 million in revenue in a single quarter which would make it the highest return sales initiative available in the near term without additional new product or market expansion investments.-->
-  
-* **Develop a Dedicated Sales Strategy for the APAC Region** that treats it as a distinct market with its own customer acquisition funnel and conversion optimization approach which targets order volume growth.
+* **Prioritize Q4 demand recovery** by building out reecovery plans with specific revenue targets, promotional calendar, and marketing channel investment to prevent a repeat at the most commercially critical moment of the year.
+
+* **Develop a dedicated sales strategy for the APAC region** with its own customer acquisition funnel and conversion optimization approach which targets order volume growth.
 <!--* **A 20% increase in APAC order volume, at the region's $279 AOV, would generate approximately $725,000** in incremental revenue from a market that already demoonstrates strong willingness to spend.-->
 
 ### Product Team
-* **Launch an Urgent MacBook Air Refund Root Cause Investigation** targeting return reason codes, return timing distribution, and customer review data to identify and fix the dominant refund driver
+* **Launch a root cause investigation for MacBook Air refunds** targeting reasons for returns and address the dominant driver.
   
 <!--* **Address the Gaming Monitor Revenue Concentration Risk Through Portfolio Expansion** by bundling adjascent products that compliment high volume products like adding mechanical keyboards, gaming headsets, monitor stands to the Gaming Monitor product line.-->
   
-* Reaccess the continuation of Bose Soundsport and Apple iPhone due to their low sales performance
+* Reaccess the continuation of Bose Soundsport and Apple Iphone due to their low sales performance.
 
  ### Marketing Team
-* **Build a Dedicated APAC Market Activation Campaign** tied around region-specific paid social channels, local-language content, and culturally relevant promotional events.
+* **Build dedicated APAC market activation campaign** tied around local language content and culturally relevant promotional events and celebrations.
   
-* **Assess the APAC purchase journey for friction points** such as payment methods, shipping costs, delivery windows, and currency display and close out top three barriers before the campaign launch to ensure traffic generated converts at a rate that justifies the investment.
+* **Assess the APAC purchase journey for friction points** such as payment methods, currency display and close out barriers before campaign launch to ensure traffic generated converts at a rate that justifies the investment.
 
 
 ### Loyalty Program
-* **Accelerate Loyalty Program Enrollment as a Primary Revenue Growth Strategy** making loyalty enrollment a primary marketing KPI with specific target of converting existing non-loyalty customers into active loyalty members.
+* **Accelerate loyalty program enrollment as a primary revenue growth strategy** with the target of converting existing non-loyalty customers into active loyalty members without the need for new customer acquisition costs (CAC).
   
-* **Build in-app enrollment prompts, push notification sequences, and cart reminder automations** that capture the behavioral advantage already demonstrated by mobile-enrolled members
+* **Build in-app enrollment prompts, push notification sequences, and cart reminder automations** that capture the behavioral advantage already demonstrated by mobile enrolled members.
 
 <h2 align="center">Further Analysis</h2>
 
-* Conduct an immediate Q4 2022 investigation to identify the primary cause of the collapse whether competitor entry, traffic decline, conversion rate failure, or inventory constraints and create action plans.
+* Conduct an immediate Q4 2022 investigation to identify the primary cause of the collapse (internal or external market conditions) such as decline in conversion rate, site traffic decline or major competitor entry into the market.
 
 
 </body>
