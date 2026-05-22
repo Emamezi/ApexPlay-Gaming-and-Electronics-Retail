@@ -21,12 +21,12 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to uncov
 
 <ul>
   <h2>North Star Metrics</h2>
-  <li><b>Sales Trends:</b> Focusing on key metrics of sales revenue, order volume, and average order value (AOV).</li>
-  <li><b>Product Performance:</b> Analyzing different product lines, market impact, and refund rates to inform strategic product decisions.
+  <li><b>Sales trends:</b> Focusing on key metrics of sales revenue, order volume, and average order value (AOV).</li>
+  <li><b>Product performance:</b> Analyzing different product lines, market impact, and refund rates to inform strategic product decisions.
 </li>
-  <li><b>Loyalty Program Evaluation:</b> Evaluating the effectiveness of ApexPlay's loyalty program and providing recommendations to maximize customer engagement and retention.
+  <li><b>Loyalty program evaluation:</b> Evaluating the effectiveness of ApexPlay's loyalty program and providing recommendations to maximize customer engagement and retention.
 <!-- Assessing the effectiveness of the company’s loyalty program in driving customer engagement, repeat purchases, and retention, with recommendations to enhance its impact.</li> -->
-  <li><b>Regional Performance:</b> Evaluating regional demand and product performance across regions to identify growth markets and areas for improvement.</li>
+  <li><b>Regional performance:</b> Evaluating regional demand and product performance across regions to identify growth markets and areas for improvement.</li>
 </ul>
 
 <div>
@@ -45,7 +45,7 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to uncov
   
 * Historically, non loyalty customers have been outspending loyalty customers in basket size up until the end of 2021. However, as the loyalty program gained popularity over time AOV increased and **loyalty customers were spending on average $30 more than non-loyalty customers in 2022**.
   
-* **One in nine MacBook Air customers decided it wasn't worth keeping**, and at $1,588 a unit, those 451 decisions didn't just reverse a sale, they likely **cost the business close to $743K in real net losses**.
+* **One in nine MacBook Air customers decided it wasn't worth keeping**, and at $1,588 a unit, those 451 decisions didn't just reverse a sale, they likely cost the business about **$743K in real net losses**.
 
   <div align="center">
   <table>
