@@ -146,8 +146,8 @@ The database structure as seen below consists of four tables: orders, customers,
 
 ## Spotlight: Apple Products Refunds
 <div align="center">
-  <!-- <img width="648" height="439" alt="Screenshot 2026-04-13 at 1 47 06 AM" src="https://github.com/user-attachments/assets/461e32e5-2771-4569-8314-fcc705e81e53" /> -->
-<img width="80%" alt="image" src="https://github.com/user-attachments/assets/063b56f9-b2fc-4957-ad12-50ea6054c10a" />
+  <!-- <img width="35%"  alt="Screenshot 2026-04-13 at 1 47 06 AM" src="https://github.com/user-attachments/assets/461e32e5-2771-4569-8314-fcc705e81e53" /> -->
+<img width="75%" alt="image" src="https://github.com/user-attachments/assets/063b56f9-b2fc-4957-ad12-50ea6054c10a" />
 </div>
 
 
